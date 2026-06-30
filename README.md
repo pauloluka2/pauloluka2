@@ -1,7 +1,7 @@
 <h1 align="center">Olá, eu sou Paulo Andrade 👋</h1>
 
 <h3 align="center">
-🎓 Bacharel em Ciência de Dados • 📊 Data Analytics • 📈 Business Intelligence
+🎓 Tecnólogo em Ciência de Dados • 📊 Data Analytics • 📈 Business Intelligence
 </h3>
 
 ---
